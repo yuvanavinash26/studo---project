@@ -1,4 +1,4 @@
-# 🎯 Studo - AI-Enhanced Student Dashboard
+# Studo - AI-Enhanced Student Dashboard
 
 A modern, intelligent study platform combining focused work sessions .. Master your study habits with an interactive Pomodoro timer, comprehensive planning tools, and personalized AI insights.And a mini library to store your resources...
 

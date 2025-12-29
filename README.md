@@ -29,7 +29,8 @@ A modern, intelligent study platform combining focused work sessions .. Master y
 ---
 🔗🔗Live Demo Follow this link..👀
 https://studo-project.vercel.app
-💢(If your using phone enavle desktop mode for better view)
+
+💢(If your using phone enable desktop mode for better view)
 
 ## 🛠️ Technology Stack
 

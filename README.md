@@ -27,6 +27,8 @@ A modern, intelligent study platform combining focused work sessions .. Master y
 - 🔒 **Privacy First** - Local data storage
 
 ---
+Live Demo Follow this link..👀
+https://studo-project.vercel.app
 
 ## 🛠️ Technology Stack
 

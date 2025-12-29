@@ -27,8 +27,9 @@ A modern, intelligent study platform combining focused work sessions .. Master y
 - 🔒 **Privacy First** - Local data storage
 
 ---
-Live Demo Follow this link..👀
+🔗🔗Live Demo Follow this link..👀
 https://studo-project.vercel.app
+💢(If your using phone enavle desktop mode for better view)
 
 ## 🛠️ Technology Stack
 
@@ -197,4 +198,4 @@ We welcome contributions!
 ---
 
 **Ready to transform your study habits? Start with Studo today! 🚀**
-Crafted with love--- YUVAN AVINASH❤️❤️❤️
+Crafted with love--- YUVAN AVINASH🕊️
